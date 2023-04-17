@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Alfred
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alfreddevulpian@gmail.com
+- 19 ECE Student
+- Python, C/C++
