@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alfred
-- 19 ECE Student
+- 19 1st year ECE Student
 - Python, C/C++
