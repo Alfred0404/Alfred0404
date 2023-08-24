@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m Alfred<br>- ⌨️ 19 1st year ECE Student<br>- ♾️Python, C/C++
+* 👋 Hi, I’m Alfred
+* ⌨️ 19 2nd year ECE Student
+* 💻Python, C/C++, HTML/CSS/JS, React.js
 
 
 # 💻 Tech Stack:
