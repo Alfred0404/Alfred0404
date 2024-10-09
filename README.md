@@ -2,6 +2,7 @@
 * 👋 Hi, I’m Alfred - 20yo
 * ⌨️ 3nd year ECE Student
 * 💻Python, C, WEB
+
 Learning and trying some cool stuff
 
 # 💻 Tech Stack
