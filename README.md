@@ -1,6 +1,7 @@
 # 💫 About Me
 * 👋 Hi, I’m Alfred - 20yo
-* ⌨️ 3nd year ECE Student
+* ⌨️ 3rd year ECE Student
+* 📍currently studying in New York
 * 💻Python, C, WEB
 
 Learning and trying some cool stuff
