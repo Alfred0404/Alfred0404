@@ -1,12 +1,12 @@
 # 💫 About Me
 
-👋 Hi, I’m **Alfred**, a 20-year-old engineering student currently in my 3rd year at ECE Paris. I am passionate about **Artificial Intelligence**, **data science**, and **technology** in general.
+👋 Hi, I’m **Alfred**, a 20-year-old engineering student currently in my 3rd year at ECE Paris. I am passionate about **Artificial Intelligence** and **technology** in general.
 
-🚀 I love working on challenging projects that push me to learn and grow. My goal is to contribute to impactful technological solutions and continually refine my skills in programming, problem-solving, and innovation.
+🚀 I love working on challenging projects that push me to learn and grow my skills. My goal is to contribute to impactful technological solutions and continually refine my skills in programming, problem-solving, and innovation.
 
 ## 🌟 Quick Facts
 - 🧠 **Passionate about AI** and its applications.
-- 📍 Currently seeking a **data engineering** or **AI-focused internship** for January 2025.
+- 📍 Currently seeking a **data engineering** or **AI-focused internship** for June 2025.
 - 🌐 Check out my portfolio: [alfreddevulpian.vercel.app](https://alfreddevulpian.vercel.app)  
 - 💼 Find me on LinkedIn: [Alfred De Vulpian](https://linkedin.com/in/alfred-de-vulpian/)  
 
