@@ -24,15 +24,15 @@
 
 Here are some of my favorite projects:
 
-### 1️⃣ **Genetic Algorithm for AI racer**
+### 1️⃣ [**Genetic Algorithm for AI racer**](https://github.com/Alfred0404/genetic_ai_racer)
 - Created a genetic algorithm to train AI models to race on a circuit.  
 - Gained hands-on experience with evolutionary computation and optimization strategies.
 
-### 2️⃣ **Fridge Scanner with Recipe Suggestions**
+### 2️⃣ [**Fridge Scanner with Recipe Suggestions**](https://github.com/Alfred0404/smart_fridge_recipes_generator)
 - Built a system using computer vision to recognize ingredients placed in a fridge and suggest recipes based on their availability.  
 - Utilized **Python**, **YOLO**, and **Spoonacular API** for object detection and recipe recommendation.
 
-### 3️⃣ **Personal Portfolio**
+### 3️⃣ [**Personal Portfolio**](https://alfreddevulpian.vercel.app)
 - Designed and deployed a fully responsive portfolio showcasing my skills, projects, and experience.  
 - Built with **Vue.js**, **TailwindCSS**, and hosted on **Vercel**.
 
