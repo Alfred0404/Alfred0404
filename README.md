@@ -6,9 +6,9 @@
 
 ## 🌟 Quick Facts
 - 🧠 **Passionate about AI** and its applications.
-- 📍 Currently seeking a **data engineering** or **AI-focused internship** for June 2025.
-- 🌐 Check out my portfolio: [alfreddevulpian.vercel.app](https://alfreddevulpian.vercel.app)  
-- 💼 Find me on LinkedIn: [Alfred De Vulpian](https://linkedin.com/in/alfred-de-vulpian/)  
+- 📍 Currently seeking a **data engineering** or **AI-focused** apprenticeship for septembre 2025.
+- 🌐 Check out my [portfolio](https://alfreddevulpian.vercel.app)  
+- 💼 Find me on [LinkedIn](https://linkedin.com/in/alfred-de-vulpian/)  
 
 🚀 Always striving to **learn and grow every day!** 🚀
 
@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,vue,tailwind,php,mysql,linux,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,vue,tailwind,php,mysql,linux,gi,javat&perline=6)](https://skillicons.dev)
 
 ---
 
