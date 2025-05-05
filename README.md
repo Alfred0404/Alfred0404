@@ -39,3 +39,5 @@ Here are some of my favorite projects:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Alfred0404&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=commandobognol&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=1faf51&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
