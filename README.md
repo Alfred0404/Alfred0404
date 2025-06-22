@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,vue,tailwind,php,mysql,linux,git,java&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js,vue,tailwind,php,mysql,linux,git,java,docker&perline=7)](https://skillicons.dev)
 
 ---
 
