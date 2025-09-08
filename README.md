@@ -5,6 +5,7 @@ I've been passionate about coding for 7 years, starting with Python during high 
 
 - 📍 Currently seeking an **AI-focused internship** for april 2026.
 - 🧠 **Passionate about AI** and its applications.
+- ☝️ Learning Langchain and AI agents
 - 🌐 Check out my [portfolio](https://alfreddevulpian.vercel.app)  
 - 💼 Find me on [LinkedIn](https://linkedin.com/in/alfred-de-vulpian/)
 
