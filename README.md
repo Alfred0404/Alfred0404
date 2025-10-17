@@ -21,15 +21,19 @@ I've been passionate about coding for 7 years, starting with Python during high 
 
 Here are some of my favorite projects:
 
-### 1️⃣ [**Genetic Algorithm for AI racer**](https://github.com/Alfred0404/genetic_ai_racer)
+### 1️⃣ [**RAG Pipeline**](https://github.com/Alfred0404/rag_chatbot)
+- Built an end to end local RAG (Retrieval Augmented Generation) pipeline, enabling user to query their sources.
+- Full local execution, with `mistral:latest` and `mxbai-embed-large` embedding model thanks to Ollama.
+
+### 2️⃣ [**Genetic Algorithm for AI racer**](https://github.com/Alfred0404/genetic_ai_racer)
 - Created a genetic algorithm to train AI models to race on a circuit.  
 - Gained hands-on experience with evolutionary computation and optimization strategies.
 
-### 2️⃣ [**GAN**](https://github.com/Alfred0404/gan)
+### 3️⃣ [**GAN**](https://github.com/Alfred0404/gan)
 - Built a gan (Generative Adversarial Network) trained on the mnist dataset to gain knowledge about this architecture  
 - Built with **Python**.
 
-### 3️⃣ [**Fridge Scanner with Recipe Suggestions**](https://github.com/Alfred0404/smart_fridge_recipes_generator)
+### 4️⃣ [**Fridge Scanner with Recipe Suggestions**](https://github.com/Alfred0404/smart_fridge_recipes_generator)
 - Built a system using computer vision to recognize ingredients placed in a fridge and suggest recipes based on their availability.  
 - Utilized **Python**, **YOLO**, and **Spoonacular API** for object detection and recipe recommendation.
 
@@ -38,3 +42,5 @@ Here are some of my favorite projects:
 - Built with **Vue.js**, **TailwindCSS**, and hosted on **Vercel**.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=commandobognol&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=1faf51&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
