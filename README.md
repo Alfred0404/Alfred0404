@@ -41,6 +41,8 @@ Here are some of my favorite projects:
 - Designed and deployed a fully responsive portfolio showcasing my skills, projects, and experience.  
 - Built with **Vue.js**, **TailwindCSS**, and hosted on **Vercel**.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=commandobognol&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=1faf51&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
 
