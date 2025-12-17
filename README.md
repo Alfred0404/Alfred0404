@@ -21,25 +21,25 @@ I've been passionate about coding for 7 years, starting with Python during high 
 
 Here are some of my favorite projects:
 
-### 1️⃣ [**RAG Pipeline**](https://github.com/Alfred0404/rag_chatbot)
+### 1️⃣ [**Lightseek-OCR**](https://github.com/Alfred0404/lightseek-ocr)
+- My own local implementation of the architecture of the DeepSeek-OCR model.
+- Used local `CLIP` and `SAM` models using the `transformers` library and `Ollama`.
+
+### 2️⃣ [**RAG Pipeline**](https://github.com/Alfred0404/rag_chatbot)
 - Built an end to end local RAG (Retrieval Augmented Generation) pipeline, enabling user to query their sources.
 - Full local execution, with `mistral:latest` and `mxbai-embed-large` embedding model thanks to Ollama.
 
-### 2️⃣ [**Genetic Algorithm for AI racer**](https://github.com/Alfred0404/genetic_ai_racer)
+### 3️⃣ [**Genetic Algorithm for AI racer**](https://github.com/Alfred0404/genetic_ai_racer)
 - Created a genetic algorithm to train AI models to race on a circuit.  
 - Gained hands-on experience with evolutionary computation and optimization strategies.
 
-### 3️⃣ [**GAN**](https://github.com/Alfred0404/gan)
+### 4️⃣ [**GAN**](https://github.com/Alfred0404/gan)
 - Built a gan (Generative Adversarial Network) trained on the mnist dataset to gain knowledge about this architecture  
 - Built with **Python**.
 
-### 4️⃣ [**Fridge Scanner with Recipe Suggestions**](https://github.com/Alfred0404/smart_fridge_recipes_generator)
+### 5️⃣ [**Fridge Scanner with Recipe Suggestions**](https://github.com/Alfred0404/smart_fridge_recipes_generator)
 - Built a system using computer vision to recognize ingredients placed in a fridge and suggest recipes based on their availability.  
 - Utilized **Python**, **YOLO**, and **Spoonacular API** for object detection and recipe recommendation.
-
-### 4️⃣ [**Personal Portfolio**](https://alfreddevulpian.vercel.app)
-- Designed and deployed a fully responsive portfolio showcasing my skills, projects, and experience.  
-- Built with **Vue.js**, **TailwindCSS**, and hosted on **Vercel**.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
